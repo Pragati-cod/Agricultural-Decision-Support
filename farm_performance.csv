@@ -1,0 +1,11 @@
+farm_id,farm_name,location,crop,yield_per_hectare,input_cost_per_hectare,gross_return_per_hectare
+F001,Green Farm,Pune,Wheat,2000.0,4400.0,50000.0
+F002,Sunrise Farm,Nashik,Wheat,2200.0,4266.666666666667,57200.0
+F003,Krishna Farm,Satara,Rice,2100.0,4750.0,67200.0
+F004,Shiv Farm,Ahmednagar,Wheat,1800.0,3750.0,44100.0
+F005,Modern Farm,Kolhapur,Sugarcane,10000.0,5428.571428571428,35000.0
+F006,Farmer Farm,Pune,Maize,2400.0,5333.333333333333,52800.0
+F007,Green Valley,Nashik,Onion,2000.0000000000002,3857.1428571428573,36000.00000000001
+F008,Agro Farm,Satara,Rice,2000.0,3406.25,62000.0
+F009,Sunshine Farm,Pune,Wheat,1900.0,5600.0,48450.0
+F010,Krishi Farm,Kolhapur,Sugarcane,12000.0,4622.222222222223,43200.0

@@ -1,0 +1,11 @@
+farm_id,farm_name,location,latitude,longitude,area_hectares
+F001,Green Farm,Pune,18.5204,73.8567,2.5
+F002,Sunrise Farm,Nashik,19.9975,73.7898,3.0
+F003,Krishna Farm,Satara,17.6805,74.0183,2.0
+F004,Shiv Farm,Ahmednagar,19.0948,74.7480,4.0
+F005,Modern Farm,Kolhapur,16.7050,74.2433,3.5
+F006,Farmer Farm,Pune,18.6298,73.7997,1.5
+F007,Green Valley,Nashik,20.0059,73.7630,2.8
+F008,Agro Farm,Satara,17.6912,74.0120,3.2
+F009,Sunshine Farm,Pune,18.5074,73.8077,2.0
+F010,Krishi Farm,Kolhapur,16.7000,74.2200,4.5

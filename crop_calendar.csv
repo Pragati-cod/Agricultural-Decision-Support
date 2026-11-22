@@ -1,0 +1,11 @@
+farm_id,crop,season,sowing_date,expected_harvest_date
+F001,Wheat,Rabi,2025-11-01,2026-03-15
+F002,Wheat,Rabi,2025-11-05,2026-03-20
+F003,Rice,Kharif,2025-06-15,2025-10-20
+F004,Wheat,Rabi,2025-11-10,2026-03-25
+F005,Sugarcane,Annual,2025-01-10,2026-01-10
+F006,Maize,Kharif,2025-06-10,2025-10-15
+F007,Onion,Rabi,2025-10-20,2026-02-15
+F008,Rice,Kharif,2025-06-20,2025-10-25
+F009,Wheat,Rabi,2025-11-12,2026-03-28
+F010,Sugarcane,Annual,2025-01-15,2026-01-15
